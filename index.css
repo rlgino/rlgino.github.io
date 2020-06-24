@@ -57,9 +57,16 @@ ul li{
     align-items: center;
 }
 .redes-sociales div i {
-    margin-right: 1em;
+    margin-right: 0.3em;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: var(--letter-color);
+}
 /*
 https://www.canva.com/es_mx/aprende/100-combinaciones-colores-como-aplicarlas-disenos/
 
